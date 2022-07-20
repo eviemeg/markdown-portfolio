@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Extra list of things
+- i love *green* 
+- ipads are **amazing**
+- *__Sleep__ is also fabulous*
